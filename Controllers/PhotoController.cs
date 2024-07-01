@@ -21,6 +21,6 @@ public class PhotoController : ControllerBase
         if (_dbContext == null)
             return NotFound();
 
-        return await _dbContext.Photo.ToListAsync();
+        return await _dbContext.Photos.ToListAsync();
     }
 }

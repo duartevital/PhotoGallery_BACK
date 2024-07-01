@@ -482,5 +482,11 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-.vs/PhotoGallery/v17/.suo
-.vs/PhotoGallery/v17/.suo
+*.suo
+*.dll
+*.dll
+*.exe
+*.pdb
+*.cache
+obj/Debug/net8.0/PhotoGallery.AssemblyInfo.cs
+obj/Debug/net8.0/PhotoGallery.AssemblyInfoInputs.cache
