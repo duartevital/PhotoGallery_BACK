@@ -8,19 +8,15 @@ using Microsoft.EntityFrameworkCore;
 
 namespace PhotoGallery.Models;
 
-[Table("Photo")]
-public partial class Photo
+[Table("Image")]
+public partial class Image
 {
     [Key]
     public int Id { get; set; }
 
-    public string Description { get; set; }
+    [InverseProperty("IdNavigation")]
+    public virtual Photo Photo { get; set; }
 
-    public string Url { get; set; }
-
-    public string Filename { get; set; }
-
-    [ForeignKey("Id")]
-    [InverseProperty("Photo")]
-    public virtual Image IdNavigation { get; set; }
+    [InverseProperty("IdNavigation")]
+    public virtual Thumbnail Thumbnail { get; set; }
 }

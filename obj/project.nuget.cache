@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IR5ZrcEV1VI=",
+  "dgSpecHash": "Mus84u+1haY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duarte\\source\\repos\\PhotoGallery\\PhotoGallery.csproj",
+  "projectFilePath": "C:\\Users\\Duarte\\Documents\\photo-gallery\\Backend\\PhotoGallery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duarte\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Duarte\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

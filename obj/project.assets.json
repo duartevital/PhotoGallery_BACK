@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duarte\\source\\repos\\PhotoGallery\\PhotoGallery.csproj",
+      "projectUniqueName": "C:\\Users\\Duarte\\Documents\\photo-gallery\\Backend\\PhotoGallery.csproj",
       "projectName": "PhotoGallery",
-      "projectPath": "C:\\Users\\Duarte\\source\\repos\\PhotoGallery\\PhotoGallery.csproj",
+      "projectPath": "C:\\Users\\Duarte\\Documents\\photo-gallery\\Backend\\PhotoGallery.csproj",
       "packagesPath": "C:\\Users\\Duarte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duarte\\source\\repos\\PhotoGallery\\obj\\",
+      "outputPath": "C:\\Users\\Duarte\\Documents\\photo-gallery\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Duarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
